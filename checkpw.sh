@@ -1,6 +1,5 @@
 #!/bin/bash
-#by Manuel Verhoeven
-#student number: 10480891 
+
 
 #Start in line 1 (skips the infomration we dont want on line 0).
 #If the legth of the string in argument 2 of the dataset is equal to 8 and contains a number between 1-9 and also contains a captial letter between A-Z. 
