@@ -1,6 +1,5 @@
 #!/bin/bash
-#by Manuel Verhoeven
-#student number: 10480891 
+
 
 pre="<tr><td>" 
 mid="<\/td><td>"
