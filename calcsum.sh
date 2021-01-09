@@ -1,6 +1,4 @@
 #!/bin/bash
-#by Manuel Verhoeven
-#student number: 10480891
 
 #define the sum and set to 0 for defualt
 sum=0
