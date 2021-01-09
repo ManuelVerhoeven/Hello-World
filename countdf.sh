@@ -1,6 +1,5 @@
 #!/bin/bash
-#by Manuel Verhoeven
-#student number: 10480891
+
 
 
 #set the working directory to be that of the entered arguement in shell.
