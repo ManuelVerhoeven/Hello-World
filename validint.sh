@@ -1,6 +1,5 @@
 #!/bin/bash
-#by Manuel Verhoeven
-#student number: 10480891
+
 
 
 while true; do #while loop that continues until the right condition is met.
