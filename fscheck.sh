@@ -1,6 +1,5 @@
 #!/bin/bash
-#by Manuel Verhoeven
-#student number: 10480891 
+
 
 getprop()   { #the function getprop is placed in the header
                 file_size_b=$(stat -c %s "$file") #The stat custom command %s is used on the input file to find the size in bytes (alternatively a argument $1 can be used here)
