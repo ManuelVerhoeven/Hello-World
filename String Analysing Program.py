@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 value = input('Type Something: ') 
  
 if value.isupper():      print('It is all uppercase.') 
