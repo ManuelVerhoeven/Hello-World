@@ -1,6 +1,5 @@
 #!/bin/bash
-#by Manuel Verhoeven
-#student number: 10480891
+
 
 #need to load and safe values from the values.txt file into an array called VALUES.
 ARRAY_VALUES=values.txt #here the array values are matched with the values.txt file.
