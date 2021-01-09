@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 print('1 Convert Metric to Imperial')
 print('2 Convert Imperial to Meric')
 
